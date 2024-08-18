@@ -29,4 +29,4 @@ This project is a simple and elegant image slider website that displays a series
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/beautiful-image-slider.git
+   gh repo clone Sreeraaj45/Beautiful_Image_Slider
